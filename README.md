@@ -8,11 +8,10 @@
   ### Hi there 👋
   [![Years Badge](https://badges.pufler.dev/years/infectionfire)](https://badges.pufler.dev)
   [![Repos Badge](https://badges.pufler.dev/repos/infectionfire)](https://badges.pufler.dev)
-  [![Commits Badge](https://badges.pufler.dev/commits/monthly/infectionfire)](https://badges.pufler.dev)
   [![codewars](https://www.codewars.com/users/infectionfire/badges/small)](https://www.codewars.com/users/infectionfire) 
 
 
-  - 🔭 I’m currently working on Content-Manager
+  - 🔭 I’m currently working on Java developer
   - 🌱 I’m currently learning Java and Computer Science
   - 👯 I am looking for a job in software development
   
