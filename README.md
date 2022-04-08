@@ -13,8 +13,8 @@
 
   - 🔭 I’m currently working on Java developer
   - 🌱 I’m currently learning Java and Computer Science
-  - 👯 I am looking for a job in software development
-  
+<!--   - 👯 I am looking for a job in software development
+   -->
   #### 📫 How to reach me:
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/inf213/)  &nbsp; <a href="mailto:infectionfirework@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
