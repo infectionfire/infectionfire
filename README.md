@@ -6,8 +6,6 @@
 
   ### Hello World! 
   ### Hi there 👋
-  [![Years Badge](https://badges.pufler.dev/years/infectionfire)](https://badges.pufler.dev)
-  [![Repos Badge](https://badges.pufler.dev/repos/infectionfire)](https://badges.pufler.dev)
   [![codewars](https://www.codewars.com/users/infectionfire/badges/small)](https://www.codewars.com/users/infectionfire) 
 
 
