@@ -9,8 +9,7 @@
   [![codewars](https://www.codewars.com/users/infectionfire/badges/small)](https://www.codewars.com/users/infectionfire) 
 
 
-  - 🔭 I’m currently working on Java developer
-  - 🌱 I’m currently learning Java and Computer Science
+  - 🔭 I’m currently working on Java developer and studying computer science
 <!--   - 👯 I am looking for a job in software development
    -->
   #### 📫 How to reach me:
